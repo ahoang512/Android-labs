@@ -1,0 +1,15 @@
+Apr 15, 2013 	Oklahoma City Thunder 	104, 	Sacramento Kings 	95  
+Jan 27, 2013 	Los Angeles Clippers 	96, 	Portland Trail Blazers 	83  
+Feb 21, 2013 	Miami Heat 		86, 	Chicago Bulls 		67  
+Jan 23, 2013 	Memphis Grizzlies 	106, 	Los Angeles Lakers 	93  
+Jan 9, 2013 	Denver Nuggets 		108, 	Orlando Magic 		105 
+Mar 13, 2013 	Washington Wizards 	106, 	Milwaukee Bucks 	93  
+Nov 29, 2012 	Miami Heat 		105, 	San Antonio Spurs 	100 
+Apr 5, 2013 	Utah Jazz 		95, 	New Orleans Pelicans 	83  
+Dec 28, 2012 	Sacramento Kings 	106, 	New York Knicks 	105 
+Nov 3, 2012 	San Antonio Spurs 	110, 	Utah Jazz 		100 
+Apr 14, 2013 	Dallas Mavericks 	107, 	New Orleans Pelicans 	89  
+Feb 2, 2013 	Minnesota Timberwolves 	115, 	New Orleans Pelicans 	86  
+Mar 13, 2013 	Oklahoma City Thunder 	110, 	Utah Jazz 		87  
+Nov 27, 2012 	Philadelphia 76ers 	100, 	Dallas Mavericks 	98  
+Dec 3, 2012 	Los Angeles Clippers 	105, 	Utah Jazz 		104 

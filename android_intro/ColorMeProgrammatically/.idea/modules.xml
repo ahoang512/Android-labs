@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ColorMeProgrammatically.iml" filepath="$PROJECT_DIR$/ColorMeProgrammatically.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ColorMeProgrammatically/ColorMeProgrammatically-ColorMeProgrammatically.iml" filepath="$PROJECT_DIR$/ColorMeProgrammatically/ColorMeProgrammatically-ColorMeProgrammatically.iml" />
+    </modules>
+  </component>
+</project>
+

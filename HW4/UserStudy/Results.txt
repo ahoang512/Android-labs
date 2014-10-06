@@ -1,0 +1,4 @@
+Since the TTest result is less then .05 (.001348) it is safe to say that the two screens
+are entirely different. Also, since the avg times for for Keepscore1s is significantly higher, we can conclude that it's UI is slower for the users.
+
+From the post questionaire, it was also clear that KeepScores was the much more preferred method of entering games. All 3 of the volunteers chose it as the one where data was able to be entered fast.

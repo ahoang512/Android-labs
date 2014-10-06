@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.ucsb.cs.cs185.a_hoang.a_hoanggpscam.MainActivity" >
+
+    <item android:id="@+id/action_takePhoto"
+        android:title="@string/take_photo"
+        app:showAsAction="always|withText"/>
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_help"
+        android:title="@string/help"
+        android:showAsAction="never"/>
+</menu>
