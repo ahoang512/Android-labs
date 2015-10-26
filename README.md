@@ -1,7 +1,7 @@
 Android-labs
 ============
 
-cs185- Mobile development on the android platform.
+Some examples to try out android programming
 
 Coded by Anthony Hoang
 
